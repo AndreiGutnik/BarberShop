@@ -1,0 +1,38 @@
+:root{
+	--primary-font-color: #555555;
+
+	--primary-bcg-color: #FFFFFF;
+}
+
+body{
+	background-color: var(--primary-bcg-color);
+	color: var(--primary-font-color);
+	font-family: 'Open Sans', sans-serif;
+	font-size: 14px;
+}
+
+img{
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+.list {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.container{
+  width: 1200px;
+  padding: 0 15px;
+  margin: 0 auto;
+}
+
+/* Nav */
+
+
+/* Hero */
+
+
+/* About */
